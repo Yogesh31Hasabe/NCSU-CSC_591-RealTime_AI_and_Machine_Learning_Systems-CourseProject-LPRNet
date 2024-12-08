@@ -1,0 +1,2 @@
+# NCSU-CSC_591-RealTime_AI_and_Machine_Learning_Systems-CourseProject-LPRNet
+NCSU-CSC_591-RealTime_AI_and_Machine_Learning_Systems-CourseProject-LPRNet
